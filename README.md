@@ -30,7 +30,9 @@
         - document 見る限り出来そうだけどサンプルが少ない
   - Design Tokens
 
-- figma から github に push したい
+<br>
+
+- Figma から github に push したい
   - Figma Tokens なら少し設定するだけで可能
   - Figma API
     - 可能だろうけど git が絡んでくるのでかなり厳しい
